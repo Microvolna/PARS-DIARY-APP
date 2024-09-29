@@ -1,0 +1,12 @@
+{
+    "user": {
+        "cookie": null,
+        "first_name": null,
+        "last_name": null,
+        "avatar_url": null
+    },
+    "settings": {
+        "theme_style": "Dark",
+        "primary_palette": "Blue"
+    }
+}

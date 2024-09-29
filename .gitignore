@@ -1,0 +1,13 @@
+# Python
+venv
+__pycache__
+
+# Log
+*.log
+
+# IDE
+.vscode
+.idea
+
+# Project
+ava.png
